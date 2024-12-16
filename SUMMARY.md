@@ -3,6 +3,7 @@
 * [👋 Getting started with Physica Finance](README.md)
   * [Background](getting-started-with-physica-finance/background.md)
   * [Getting $PLQ](getting-started-with-physica-finance/getting-usdplq.md)
+  * [Wallets](getting-started-with-physica-finance/wallets.md)
 
 ## Protocol functionalities
 
